@@ -4,10 +4,10 @@
 
 # Docker
 .docker
-
+app/settings.py
 # Python
 app/__pycache__/
-app/settings.py
+
 app/*/__pycache__/
 app/*/*/__pycache__/
 app/*/*/*/__pycache__/
