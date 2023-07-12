@@ -2,10 +2,6 @@ FROM python:3.9-alpine3.13
 LABEL maintainer="londonappdeveloper.com"
 
 ENV PYTHONUNBUFFERED 1
-<<<<<<< HEAD
-=======
-
->>>>>>> e4ea77220f5e77f55ee6c62a4dfe1605e0c44eba
 COPY ./requirements.txt /tmp/requirements.txt
 COPY ./requirements.dev.txt /tmp/requirements.dev.txt
 COPY ./app /app
