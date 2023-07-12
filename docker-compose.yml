@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 version: "3.3"
+=======
+version: "3.9"
+>>>>>>> e4ea77220f5e77f55ee6c62a4dfe1605e0c44eba
 
 services:
   app:
